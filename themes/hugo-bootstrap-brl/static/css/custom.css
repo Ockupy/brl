@@ -64,6 +64,10 @@ height: 100%;
 max-height: 3.7em;
 }
 
+.navbar-menu .navbar-start .navbar-item, .navbar-menu .navbar-end .navbar-item {
+  padding: 10px 0;
+}
+
 a.navbar-item:hover {
     color: rgb(231, 231, 231);
     background:#332afb;

@@ -27,7 +27,7 @@ defaultContentLanguage = "en"
   languageName = "English"
 
   # Replace the default footer message with a localized message
-  copyright = "BRL Events"
+  copyright = ""
 
 # Links format
 

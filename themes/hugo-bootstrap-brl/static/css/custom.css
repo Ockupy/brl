@@ -139,3 +139,9 @@ a:hover {
   background:#272a33;
   min-height:100vh;
 }
+
+
+/* Footer */
+.footer {
+padding: 1rem 1.5rem 1rem;
+}

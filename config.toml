@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Battle Royal League"
+title = "Battle Royale League"
 languageCode = "en-us"
 
 # Pagination
@@ -27,7 +27,7 @@ defaultContentLanguage = "en"
   languageName = "English"
 
   # Replace the default footer message with a localized message
-  copyright = "Battle Royal League"
+  copyright = "Battle Royale League"
 
 # Links format
 
